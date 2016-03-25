@@ -1,0 +1,9 @@
+{
+    "id" : "TestEffects",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "arsenii",
+    "displayName" : "TestEffects",
+    "description" : "Module to test praticle effects",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
